@@ -1,6 +1,9 @@
 <?xml version="1.0"?>
 <coverage generated="1504764594">
   <project timestamp="1504764594">
-    <metrics elements="26.0" coveredelements="26.0" />
+    <metrics elements="26" coveredelements="26" loc="1000" ncloc="800" 
+       coveredstatements="300" statements="500" 
+       coveredmethods="50" methods="80"
+       coveredconditionals="100" conditionals="120"   />
   </project>
 </coverage>
