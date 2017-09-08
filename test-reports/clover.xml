@@ -4,7 +4,7 @@
     <metrics classes="0" files="1" packages="1" 
        loc="1" ncloc="1" 
        coveredstatements="1" statements="1" 
-       coveredmethods="1" methods="1"
+       coveredmethods="1" methods="2"
        coveredconditionals="1" conditionals="1"  
        coveredelements="1000" elements="1000"
        complexity="0" />
