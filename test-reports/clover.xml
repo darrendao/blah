@@ -2,10 +2,10 @@
 <coverage generated="1336638030827" clover="3.1.5">
   <project timestamp="1336638027763">
     <metrics classes="0" files="1" packages="1" 
-       loc="1000" ncloc="800" 
-       coveredstatements="300" statements="500" 
-       coveredmethods="50" methods="80"
-       coveredconditionals="100" conditionals="120"  
+       loc="1" ncloc="1" 
+       coveredstatements="1" statements="1" 
+       coveredmethods="1" methods="1"
+       coveredconditionals="1" conditionals="1"  
        coveredelements="1000" elements="1000"
        complexity="0" />
   </project>
