@@ -6,7 +6,7 @@
        coveredstatements="300" statements="500" 
        coveredmethods="50" methods="80"
        coveredconditionals="100" conditionals="120"  
-       coveredelements="999" elements="1000"
+       coveredelements="1000" elements="1000"
        complexity="0" />
   </project>
 </coverage>
